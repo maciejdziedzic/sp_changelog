@@ -1,0 +1,3 @@
+- added another file
+- messege po 1 commicie
+- Initial commit
