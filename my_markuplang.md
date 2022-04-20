@@ -1,5 +1,5 @@
-#Alo bez spacji
-# Alo z 1 spac
-# Alo z 2 spac 
-## Dwa hasze
-##Dwa hasze bez spacji
+### 3 hasze
+
+## 2 hasze
+
+# 1 hasz
